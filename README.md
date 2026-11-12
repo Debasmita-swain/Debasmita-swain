@@ -1,37 +1,219 @@
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">Hi 👋, I'm Debasmita Swain</h1>
-<h3 align="center">👩‍💻 Software Engineer | AI Engineering Enthusiast from India 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debasmita-swain&label=Profile%20views&color=0e75b6&style=flat" alt="debasmita-swain" /> </p>
+<h3 align="center">
+  💻 Software Engineer | 🤖 AI Engineering Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasmita-swain" alt="debasmita-swain" /></a> </p>
-
-- 🔭 I’m currently working on [Personalized Streaming Recommendations Engine](https://github.com/Debasmita-swain/netflix-movie-recommendation)
-
-- 🌱 I’m currently learning **ython, Machine Learning, Generative AI, Deep Learning, FastAPI & React.js**
-
-- 👯 I’m looking to collaborate on **AI & Machine Learning Projects**
-
-- 🤝 I’m looking for help with **Generative AI & Large Language Models**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Debasmita-swain](https://github.com/Debasmita-swain)
-
-- 💬 Ask me about **Python, JavaScript, React.js, FastAPI, Machine Learning, AI & Web Development**
-
-- 📫 How to reach me **sdebasmita762@gmail.com**
-
-- ⚡ Fun fact **I love learning new technologies and turning ideas into real-world projects! 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/debasmita swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debasmita swain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/debasmita_diaries" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debasmita_diaries" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building intelligent applications, exploring AI technologies,
+  and creating impactful software solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=debasmita-swain&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasmita-swain&show_icons=true&locale=en&layout=compact" alt="debasmita-swain" /></p>
+<p align="center">
+  <a href="https://github.com/Debasmita-swain">
+    <img src="https://img.shields.io/github/followers/debasmita-swain?label=Followers&style=for-the-badge&color=8957e5" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debasmita-swain&show_icons=true&locale=en" alt="debasmita-swain" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debasmita-swain&" alt="debasmita-swain" /></p>
+<!-- ================= ABOUT ME ================= -->
+
+## 👩‍💻 About Me
+
+- 🔭 Working on AI-powered applications and software development projects.
+- 🌱 Learning Machine Learning, Generative AI, Deep Learning and LLMs.
+- 💡 Interested in Artificial Intelligence and Software Engineering.
+- 👯 Open to collaborating on Python and AI/ML projects.
+- 💬 Ask me about Python, JavaScript, React.js, FastAPI and Machine Learning.
+- 🎯 Goal: To become a skilled Software Engineer and AI Engineer.
+- ⚡ Fun fact: I love learning new technologies and turning ideas into real-world projects!
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,fastapi" />
+</p>
+
+### AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+### Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Netflix Movie Recommendation System
+
+AI-powered movie recommendation application.
+
+**Tech Stack:**
+- React.js
+- FastAPI
+- MongoDB
+- Machine Learning
+- TMDB API
+
+<a href="https://github.com/Debasmita-swain/netflix-movie-recommendation">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Debasmita-swain/netflix-movie-recommendation">
+  <img src="https://img.shields.io/github/stars/Debasmita-swain/netflix-movie-recommendation?style=social" alt="Netflix Project Stars"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Scratch Game Collection
+
+Interactive games developed using Scratch and programming logic.
+
+**Tech Stack:**
+- Scratch
+- CSS
+- Game Development
+- Programming Logic
+
+<a href="https://github.com/Debasmita-swain/my_scratch_game">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-blue?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Debasmita-swain/my_scratch_game">
+  <img src="https://img.shields.io/github/stars/Debasmita-swain/my_scratch_game?style=social" alt="Scratch Project Stars"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=debasmita-swain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debasmita-swain&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- ================= STARS ================= -->
+
+## ⭐ Stars & Repository Activity
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/debasmita-swain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars Earned"/>
+  <img src="https://img.shields.io/github/forks/debasmita-swain/netflix-movie-recommendation?style=for-the-badge&color=blue" alt="Project Forks"/>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION STREAK ================= -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=debasmita-swain&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/Debasmita-swain">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=debasmita-swain&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION SUMMARY ================= -->
+
+## 📅 Contribution Calendar & Commit Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debasmita-swain&theme=tokyonight" alt="Contribution Calendar and Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debasmita-swain&theme=tokyonight&utcOffset=5.5" alt="Commit Activity by Time"/>
+</p>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debasmita-swain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Debasmita-swain">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/c/debasmita_diaries">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:sdebasmita762@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  💜 Thanks for visiting my GitHub profile!
+</p>
+
+<h3 align="center">
+  ✨ Keep Learning | Keep Building | Keep Growing ✨
+</h3>
